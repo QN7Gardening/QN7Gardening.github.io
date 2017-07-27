@@ -20,12 +20,15 @@ Join us this **Sunday July 30, 2017** from **11AM onwards** down on the communal
 
 The [Gustav's Salad Lettuce](https://www.rhshumway.com/P/02527/Gustav%27s+Salad+Lettuce) in particular is ripe for salads right now and with any luck there may be strawberries!  
 
-!Gustav's Lettuce](https://qn7gardening.github.io/images/lettuceteaser.JPG)
+<ul class="th-grid">
+  <li>
+    <a href="https://qn7gardening.github.io/images/lettuceteaser.JPG"><img src="https://qn7gardening.github.io/images/lettuceteaser.JPG" alt=""></a>
+  </li>
+</ul>
 
 So bring a dish, your favourite tipple and something to throw on the grill and we'll see you there!
 
 Contact [queenslandroadresidents@gmail.com] with any questions.
 
 *Viv & Nora*
-
 
