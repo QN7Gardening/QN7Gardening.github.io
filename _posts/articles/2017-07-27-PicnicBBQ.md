@@ -23,15 +23,16 @@ It's also our [regular monthly gardening day](https://qn7gardening.github.io/art
 The [Gustav's Salad Lettuce](https://www.rhshumway.com/P/02527/Gustav%27s+Salad+Lettuce) in particular is ripe for salads right now and with any luck there may be some fresh strawberries and maybe even a few new potatoes!   
 
 <ul class="th-grid">
-  <li>
+ <li>
+    <a href="https://qn7gardening.github.io/images/potatoes.jpeg"><img src="https://qn7gardening.github.io/images/potatoes.jpeg" alt=""></a>
+  </li>
+ <li>
     <a href="https://qn7gardening.github.io/images/strawberries.jpeg"><img src="https://qn7gardening.github.io/images/strawberries.jpeg" alt=""></a>
   </li> 
  <li>
     <a href="https://qn7gardening.github.io/images/lettuce.jpeg"><img src="https://qn7gardening.github.io/images/lettuce.jpeg" alt=""></a>
   </li>
-  <li>
-    <a href="https://qn7gardening.github.io/images/potatoes.jpeg"><img src="https://qn7gardening.github.io/images/potatoes.jpeg" alt=""></a>
-  </li>
+
 
 </ul>
 
