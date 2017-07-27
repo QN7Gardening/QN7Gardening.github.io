@@ -22,13 +22,13 @@ The [Gustav's Salad Lettuce](https://www.rhshumway.com/P/02527/Gustav%27s+Salad+
 
 <ul class="th-grid">
   <li>
-    <a href="https://qn7gardening.github.io/images/lettuceteaser.JPG"><img src="https://qn7gardening.github.io/images/lettuceteaser.JPG" alt=""></a>
+    <a href="https://qn7gardening.github.io/images/lettuce.jpeg"><img src="https://qn7gardening.github.io/images/lettuce.jpeg" alt=""></a>
   </li>
 </ul>
 
-So bring a dish, your favourite tipple and something to throw on the grill and we'll see you there!
+So bring a dish, your favourite tipple and something to throw on the grill and we'll see you down there!
 
-Contact [queenslandroadresidents@gmail.com] with any questions.
+Contact us through the [queenslandroadresidents@gmail.com](queenslandroadresidents@gmail.com) account with any questions.
 
 *Viv & Nora*
 
